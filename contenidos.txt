@@ -1,4 +1,4 @@
 APARTADO 1: Introducción
 APARTADO 2: Instalar Git
-APARTADO 3: trabajar con Git.
-APARTADO 4: Trabajar con GitHub
+APARTADO 3: Trabajar con Git.
+APARTADO 4: Trabajar con Github
